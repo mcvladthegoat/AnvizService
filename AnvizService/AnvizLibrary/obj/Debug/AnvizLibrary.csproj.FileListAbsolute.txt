@@ -1,0 +1,5 @@
+C:\Users\swime\Desktop\AnvizProject\AnvizService\AnvizLibrary\bin\Debug\AnvizLibrary.dll
+C:\Users\swime\Desktop\AnvizProject\AnvizService\AnvizLibrary\bin\Debug\AnvizLibrary.pdb
+C:\Users\swime\Desktop\AnvizProject\AnvizService\AnvizLibrary\obj\Debug\AnvizLibrary.dll
+C:\Users\swime\Desktop\AnvizProject\AnvizService\AnvizLibrary\obj\Debug\AnvizLibrary.pdb
+C:\Users\swime\Desktop\AnvizProject\AnvizService\AnvizLibrary\obj\Debug\AnvizLibrary.csprojResolveAssemblyReference.cache

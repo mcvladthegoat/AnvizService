@@ -1,0 +1,10 @@
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\bin\Debug\AnvizLibrary.dll
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\bin\Debug\anviz_service.exe
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\bin\Debug\AnvizLibrary.pdb
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\bin\Debug\anviz_service.pdb
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\swime\Desktop\AnvizProject\AnvizService\TestConsole\obj\Debug\TestConsole.pdb

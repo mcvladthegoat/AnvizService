@@ -1,0 +1,177 @@
+﻿Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника test_service.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника test_service.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника test_service.
+Выполняется удаление сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется удаление источника EventLog test_service.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника test_service.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба test_service...
+Служба test_service успешно установлена.
+Создается исходный EventLog test_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется удаление сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется удаление источника EventLog test_service.
+Выполняется удаление службы test_service из системы...
+Служба test_service успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба test_service...
+Служба test_service успешно установлена.
+Создается исходный EventLog test_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется удаление сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется удаление источника EventLog test_service.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется удаление источника EventLog test_service.
+Выполняется удаление службы test_service из системы...
+Служба test_service успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба test_service...
+Служба test_service успешно установлена.
+Создается исходный EventLog test_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника test_service.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба anviz_service...
+Служба anviz_service успешно установлена.
+Создается исходный EventLog anviz_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба anviz_service...
+Служба anviz_service успешно установлена.
+Создается исходный EventLog anviz_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog
+Устанавливается служба anviz_service...
+Служба anviz_service успешно установлена.
+Создается исходный EventLog anviz_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\anviz_service.InstallLog

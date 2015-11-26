@@ -1,0 +1,105 @@
+﻿Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+Восстанавливается исходное состояние журнала событий для источника test_service.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+Восстанавливается исходное состояние журнала событий для источника test_service.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+Восстанавливается исходное состояние журнала событий для источника test_service.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+Устанавливается служба test_service...
+Служба test_service успешно установлена.
+Создается исходный EventLog test_service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника test_service.
+Выполняется установка сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+Устанавливается служба test_service...
+Создается исходный EventLog test_service в журнале Application...
+Выполняется откат для сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника test_service.
+Выполняется удаление сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+Выполняется удаление источника EventLog test_service.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.exe
+   logfile = C:\Users\swime\Downloads\defsrvc\bin\Debug\test_service.InstallLog
+Выполняется удаление источника EventLog test_service.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
